@@ -1,3 +1,7 @@
+## Notice
+
+This repository is archived. Development continues in [AyaanZaveri/navigator](https://github.com/AyaanZaveri/navigator).
+
 <div align="center">
   <img src="assets/icons/macos/navigator.png" width="150" alt="Navigator macOS icon" />
 
